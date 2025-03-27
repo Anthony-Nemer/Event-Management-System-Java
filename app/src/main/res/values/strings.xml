@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">EventManagementSystem</string>
+    <!--    <string name="navigation_drawer_open">Open Navigation</string>-->
+    <!--    <string name="navigation_drawer_close">Close Navigation</string>-->
+    <!--    <string name="title_activity_client_menu">ClientMenu</string>-->
+    <!--    <string name="nav_header_title">Android Studio</string>-->
+    <!--    <string name="nav_header_subtitle">android.studio@android.com</string>-->
+    <!--    <string name="nav_header_desc">Navigation header</string>-->
+    <!--    <string name="action_settings">Settings</string>-->
+
+    <!--    <string name="menu_home">Home</string>-->
+    <!--    <string name="menu_gallery">Gallery</string>-->
+    <!--    <string name="menu_slideshow">Slideshow</string>-->
+    <string name="large_text">This is a large text example.</string>
+    <string name="title_activity_supplier_restock_fragment">supplier_restock_fragment</string>
+    <string name="login_Activity">Login</string>
+    <string name="event_management_system">Plan Perfect</string>
+    <string name="title_activity_item_restock_request">item_restock_request</string>
+
+</resources>
